@@ -15,7 +15,7 @@ Download or clone the repo and in respective folders
 ```npm start``` (Start the server for testing application)
 
 ### React Results:-
-![React profile](./react_profiling.png)
+![React profile](./react_profiling.png "React profile")
 
 ### AngularJs Results:-
-![Angularjs profile](./angular_profiling.png)
+![Angularjs profile](./angular_profiling.png "AngularJs profile")
