@@ -1,4 +1,7 @@
 # AngularJS vs React
+
+[![GitHub license](https://img.shields.io/github/license/nimjetushar/AngularJS-vs-React.svg)](https://github.com/nimjetushar/AngularJS-vs-React/blob/master/LICENSE)
+
 AngularJs vs React rendering performance comparison
 
 ## Machine Configurations:-
